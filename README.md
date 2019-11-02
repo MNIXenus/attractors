@@ -1,0 +1,1 @@
+Python+PyQt5 visualization of Chaos game (rigth now just Sierpinski triangle)
